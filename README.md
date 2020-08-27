@@ -65,6 +65,3 @@ _Do not use special characters in the template above._
 ## 5. Celebrate - you've done your first pull request!!
 
 
-Read about markdown syntax here
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-

@@ -60,9 +60,9 @@ github_user: YOUR-GITHUB-USERNAME
 
 _Do not use special characters in the template above._
 
-## Wait for Pull Request to merge
+## 4. Wait for Pull Request to merge
 
-## Celebrate - you've done your first pull request!!
+## 5. Celebrate - you've done your first pull request!!
 
 
 Read about markdown syntax here

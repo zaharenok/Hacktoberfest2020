@@ -1,7 +1,7 @@
 ---
 name: RISHAV JADON
 institution: Amity University
-image: rishav.png
+image: rjitsu.png
 quote: Change is constant
 github: rjitsu
 ---

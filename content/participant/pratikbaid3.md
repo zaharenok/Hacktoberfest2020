@@ -1,6 +1,6 @@
 ---
 Name: Pratik Baid
-institution: Vellore Institute of Technology
+institution: VIT Chennai
 image: pratikbaid3.jpg 
 quote: Code For Good
 github: pratikbaid3

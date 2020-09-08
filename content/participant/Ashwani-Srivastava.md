@@ -1,7 +1,7 @@
 ---
 Name : Ashwani Srivastava
 Institution : IIT Kanpur
-Image : Ashwani.jpg
+Image : Ashwani-Srivastava.jpeg
 Quote : Try until you succeed.
 Github : Ashwani-Srivastava
 ---

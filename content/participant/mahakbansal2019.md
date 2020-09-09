@@ -1,5 +1,7 @@
+---
 name: Mahak Bansal
-institution: Indian Institute of technology Roorkee 🚩
+institution: IIT Roorkee
 image: mahakbansal2019.png 
-quote: Everything happens for a reason. Live it, love it, learn from it.
+quote: Everything happens for a reason.Live it, Love it and Learn from it.
 github: mahakbansal2019
+---

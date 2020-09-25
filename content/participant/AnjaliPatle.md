@@ -2,6 +2,6 @@
 name: Anjali Patle
 institution: NIT Raipur
 image: AnjaliPatle.jpg
-quote:
+quote: No rain, no flowers!
 github: AnjaliPatle
 ---

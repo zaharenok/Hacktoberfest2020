@@ -52,9 +52,9 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 
 ```
 ---
-name: yogo
-institution: csit
-github:yogendraN27
+name: YOURNAME
+institution: INSTITUTION_NAME
+github:USERNAME
 ```
 
 _Do not use special characters in the template above._

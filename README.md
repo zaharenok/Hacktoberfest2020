@@ -35,7 +35,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
 ```
-static/images/amitrajit.jpg
+static/images/amitrajitbose.jpg
 ```
 
 _Be aware, this picture will be displayed on the yearbook!_

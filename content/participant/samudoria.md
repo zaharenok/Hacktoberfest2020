@@ -1,4 +1,7 @@
 ---
-name: Samuele
-institution: Unical Informatics Engineering
-github:samudoria
+Name: Samuele
+institution: Unical
+image: samudoria.jpeg 
+quote: Just do it.
+github: samudoria
+---

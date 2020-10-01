@@ -1,4 +1,7 @@
 ---
 name: Muhammad Azhar
-institution: UET
-github:muazhar
+institution: University of Engineering and Technology Lahore - UET
+image: muazhar.jpg
+quote: Collaborate to Innovate
+github: muazhar
+---

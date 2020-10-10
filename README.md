@@ -19,6 +19,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 
 - Fork this Repository using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
+- Go to the Cloned project folder
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
 - Add your profile data in `content/participant/`
